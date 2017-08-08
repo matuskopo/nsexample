@@ -1,8 +1,8 @@
 {
-	"time": "Mon Aug 07 2017 18:00:43 GMT+0200 (CEST)",
+	"time": "Mon Aug 07 2017 18:33:38 GMT+0200 (CEST)",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"changesRequireBuildTime": "Mon Aug 07 2017 18:00:43 GMT+0200 (CEST)",
 	"nativePlatformStatus": "3",
 	"projectFileHash": "3e474ed3a1914ef8cc408033cae487a518c710470ad91a8831adfe0ecabb1141"
