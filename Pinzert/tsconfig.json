@@ -22,9 +22,6 @@
     "exclude": [
         "node_modules",
         "platforms",
-        "**/*.aot.ts",
-        "test.ts",
-        "**/*.spec.ts",
-        "**/*.mock.ts"
+        "**/*.aot.ts"
     ]
 }
